@@ -3,6 +3,14 @@ A WebApp that can search for Restaurants, Hotels, and Attractive Locations using
 
 <br />
 
+## Tech Stacks Used
+- React
+- Material UI
+- RapidAPI
+- Google Maps API
+
+<br />
+
 ## Screenshots
 ![1](https://user-images.githubusercontent.com/50899339/157609884-13b41d10-5503-4c62-941f-284bd77672cc.png)
 
